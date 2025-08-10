@@ -1,0 +1,1 @@
+export const url = "https://uehr1013.github.io/my-first-web-app/";
